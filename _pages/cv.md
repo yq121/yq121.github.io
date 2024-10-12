@@ -10,8 +10,8 @@ redirect_from:
 
 Education
 ======
-* 20XX - Present, Visiting Ph.D in Version Control Theory, GitHub University
-* 20XX - Present, Ph.D in XXX, Zhejiang Univeristy
+* 20XX - Present, Visiting PhD in Version Control Theory, GitHub University
+* 20XX - Present, PhD in XXX, Zhejiang Univeristy
 * XXXX - YYYY, B.S. in GitHub, GitHub University
 
 Work experience
