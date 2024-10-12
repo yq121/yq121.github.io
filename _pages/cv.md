@@ -31,6 +31,11 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+ 
+Honor and Awards
+======
+* Honor 1
+* Honor 2
   
 Skills
 ======
