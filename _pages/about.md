@@ -11,7 +11,9 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 I am currently a visiting student at VVV, under the supervision of Prof. AAA BB. Meanwhile, I am a PhD candidate from NNNN group led by Prof. CCC at [Zhejiang University](https://www.zju.edu.cn/english/), and my supervisor is Prof. XXX YY. Prior to that, I received my bachelor's degree from UUU University in 1111. My research interests mainly focus on DDD. I also work closely with Prof. ZZZ from JJJJ University and Prof. MMM from BBB University.
 
+<!--
 I am currently a visiting student at the [University of Virginia](https://www.virginia.edu/), under the supervision of [Prof. Tianhao Wang](https://tianhao.wang/). Meanwhile, I am a PhD candidate from NESC group led by [Prof. Jiming Chen](https://person.zju.edu.cn/en/jmchen) at [Zhejiang University](https://www.zju.edu.cn/english/), and my supervisor is [Prof. Shibo He](https://person.zju.edu.cn/en/shibohe). Prior to that, I received my bachelor's degree from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2021. My research interests mainly focus on Data Privacy Protection. I also work closely with [Prof. Zhikun Zhang](http://zhangzhk.com/) from Zhejiang University and [Prof. Mingyang Sun](https://profiles.imperial.ac.uk/mingyang.sun11) from Peking University.
+-->
 
 Research Interests
 ======
@@ -23,9 +25,11 @@ Design of Practical DDD Algorithm
 * AA BB
 * CC DD
 
+<!--
 Design of Practical Data Privacy Protection Algorithm
 * Differential Privacy
 * Machine Learning Privacy
+-->
 
 News
 ======
@@ -36,7 +40,9 @@ News
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-* [October 2024] I joined XXX.
+<!--
+* [October 2024] I joined Unviersity of Virginia as a visiting student.
+-->
 
 Site-wide configuration
 ------
