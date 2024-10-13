@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-(* means equal contribution)
+(* indicates equal contribution)
 
 ## 2024
 ### [CP: AAA BBB CCC DDD EEE](https://yq121.github.io/publications/)
@@ -15,7 +15,7 @@ IEEE Transactions on SSS (<b>TT</b>)
 
 ## 2023
 ### [PV: AAA BBB CCC DDD EEE](https://yq121.github.io/publications/)
-<b>AAA BBB</b>, CCC DD, EEE FF
+<b>AAA BBB*</b>, CCC DD*, EEE FF
 
 In Proceedings of the UUU (<b>TT 2023</b>)
 
