@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 20XX.10 - Present, Visiting Student in Department of Computer Science, GitHub University
+* 20XX.10 - Present, Visiting Student in Computer Science, GitHub University
   * Supervisor: Prof. HHH YYY
 * 20XX.09 - Present, PhD Candidate in XXX, Zhejiang Univeristy
   * Supervisor: Prof. HHH YYY (Changjiang Scholar, IET Fellow)
