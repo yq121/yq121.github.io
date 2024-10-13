@@ -11,7 +11,7 @@ author_profile: true
 ### [CP: AAA BBB CCC DDD EEE](https://yq121.github.io/publications/)
 <b>AAA BBB</b>, CCC DD, EEE FF
 
-IEEE Transactions on SSS (<b>TT 2024</b>)
+IEEE Transactions on SSS (<b>TT</b>)
 
 
 ### [PA: AAA BBB CCC DDD EEE](https://yq121.github.io/publications/)
