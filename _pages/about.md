@@ -9,7 +9,7 @@ redirect_from:
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-I am currently a visiting student at VVV, under the supervision of Prof. AAA BB. Meanwhile, I am a PhD candidate from NNNN group led by Prof. CCC at [Zhejiang University](https://www.zju.edu.cn/english/), and my supervisor is Prof. XXX YY. Before that, I received my B.S. degree from UUU University in 1111. My research interests mainly focus on DDD. I also work closely with Prof. ZZZ from JJJJ University and Prof. MMM from BBB University.
+I am currently a visiting PhD student at VVV, under the supervision of Prof. AAA BB. Meanwhile, I am a PhD candidate from NNNN group led by Prof. CCC at [Zhejiang University](https://www.zju.edu.cn/english/), and my supervisor is Prof. XXX YY. Prior to that, I received my bachelor's degree from UUU University in 1111. My research interests mainly focus on DDD. I also work closely with Prof. ZZZ from JJJJ University and Prof. MMM from BBB University.
 
 Research Interests
 ======
@@ -30,7 +30,7 @@ News
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-* [10/2024] I joined XXX.
+* [October 2024] I joined XXX.
 
 Site-wide configuration
 ------
