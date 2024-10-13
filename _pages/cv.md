@@ -32,7 +32,7 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
  
-Honor and Awards
+Honors and Awards
 ======
 * Honor 1
 * Honor 2
