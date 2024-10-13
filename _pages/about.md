@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,7 +20,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 * AA BB
 * CC DD
 
-What’s New
+News
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
