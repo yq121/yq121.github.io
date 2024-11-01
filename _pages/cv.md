@@ -23,7 +23,7 @@ Education
 * 2024.10 - Present, Visiting Student in Computer Science, University of Virginia
   * Supervisor: [Prof. Tianhao Wang](https://tianhao.wang/)
 * 2021.09 - Present, PhD Candidate in Control Science and Engineering, Zhejiang Univeristy
-  * Lab: NESC Group led by [Prof. Jiming Chen](https//person.zju.edu.cn/en/jmchen) (Changjiang Scholar, IEEE Fellow)
+  * Lab: NESC Group led by [Prof. Jiming Chen](https://person.zju.edu.cn/en/jmchen) (Changjiang Scholar, IEEE Fellow)
   * Supervisor: [Prof. Shibo He](https://person.zju.edu.cn/en/shibohe) (Changjiang Scholar, IET Fellow)
 * 2017.09 - 2021.06, Bachelor in Automation, University of Electronic Science and Technology of China
 
