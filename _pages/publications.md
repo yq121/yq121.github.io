@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-(* indicates equal contribution)
 <!--
 ## 2024
 ### [CP: AAA BBB CCC DDD EEE](https://yq121.github.io/publications/)
@@ -20,7 +19,7 @@ IEEE Transactions on SSS (<b>TT</b>)
 In Proceedings of the UUU (<b>TT 2023</b>)
 -->
 
-
+(* indicates equal contribution)
 ## 2024
 ### [PrivCPM: Privacy-preserving Cooperative Pricing Mechanism in Coupled Power-Traffic Networks](https://ieeexplore.ieee.org/document/10540248)
 <b>Quan Yuan</b>, Mingyang Sun, Yujie Sheng, and Qinglai Guo
